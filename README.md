@@ -17,7 +17,6 @@ install with pipenv:
 ```
 pipenv install
 pipenv run python wazelike\\wazelike.py
-
 ```
 
 Run unit tests:

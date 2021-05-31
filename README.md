@@ -20,7 +20,6 @@ pipenv run python wazelike\\wazelike.py
 
 ```
 
-
 Run unit tests:
 
 test without pipenv:
